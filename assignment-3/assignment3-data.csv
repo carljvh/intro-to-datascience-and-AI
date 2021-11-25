@@ -1,4 +1,4 @@
-residue name,position,chain,phi,psi
+residue,position,chain,phi,psi
 LYS,10,A,-149.312855,142.657714
 PRO,11,A,-44.283210,136.002076
 LYS,12,A,-119.972621,-168.705263
